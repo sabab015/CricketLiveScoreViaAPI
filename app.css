@@ -1,4 +1,4 @@
-/* body{
+body{
     background-color: darkgrey;
 }
 .score-container{
@@ -8,8 +8,11 @@
     height: 100px;
     padding: 5px 12px;
 }
-#team-1, #team-2{
-    margin-right: 180px;
+#F_Team{
+    margin-right: 20px;
+}
+#L_Team{
+    margin-right: 32px;
 }
 
 .score-container img{
@@ -20,4 +23,9 @@
 .score-container p{
     font-weight: bold;
     font-size: 11px;
+}
+
+/* .table img{
+    height: 50px;
+    width: 50px;
 } */
